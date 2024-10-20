@@ -22,4 +22,4 @@ The burger website includes various sections that allow users to explore the res
 - CSS3 for styling and making the site responsive.   
 
 **Live Demo**     
-Checkout the live version of the project here  https://bridgetadeyemi.github.io/Burger-Website/
+Checkout the live version of the project here 
